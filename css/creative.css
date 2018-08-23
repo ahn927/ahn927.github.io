@@ -217,6 +217,9 @@ header.masthead p {
   max-width: 400px;
 }
 
+.projectsPadding{
+  padding: 5%;
+}
 #projectsDiv{
   background: rgba(50,50,50, 1);
   padding-top:2%;
